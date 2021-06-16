@@ -1,3 +1,3 @@
-# Udacity_Project-2
+## TMDB Analysis
 
-TMDB Analysis Submission
+Dive into trends across content types in the TMDB database
